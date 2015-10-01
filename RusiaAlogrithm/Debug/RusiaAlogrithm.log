@@ -1,0 +1,15 @@
+﻿빌드 시작: 2015-10-01 오후 1:43:57
+     1>2 노드의 "C:\Users\J\Google 드라이브\1.일반자료박스\Algorithm\Assignment\4\RusiaAlogrithm\RusiaAlogrithm\RusiaAlogrithm.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\1.Work\VS_P_2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Al.c
+         Al.c
+     1>c:\users\j\google 드라이브\1.일반자료박스\algorithm\assignment\4\rusiaalogrithm\rusiaalogrithm\al.c(19): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+       Link:
+         D:\1.Work\VS_P_2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\J\Google 드라이브\1.일반자료박스\Algorithm\Assignment\4\RusiaAlogrithm\Debug\RusiaAlogrithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\J\Google 드라이브\1.일반자료박스\Algorithm\Assignment\4\RusiaAlogrithm\Debug\RusiaAlogrithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\J\Google 드라이브\1.일반자료박스\Algorithm\Assignment\4\RusiaAlogrithm\Debug\RusiaAlogrithm.lib" /MACHINE:X86 Debug\RusiaAlogrithm.res
+         Debug\Al.obj
+         RusiaAlogrithm.vcxproj -> C:\Users\J\Google 드라이브\1.일반자료박스\Algorithm\Assignment\4\RusiaAlogrithm\Debug\RusiaAlogrithm.exe
+     1>"C:\Users\J\Google 드라이브\1.일반자료박스\Algorithm\Assignment\4\RusiaAlogrithm\RusiaAlogrithm\RusiaAlogrithm.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.35
