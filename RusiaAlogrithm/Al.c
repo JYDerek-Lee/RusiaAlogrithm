@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define INPUT1 19
 #define INPUT2 22
-//매번 실험중
+//매번 실험중3
 int RusiaAlgorithm(int input1, int input2) {
 	int sum=0;
 	while (input1 > 0) {
